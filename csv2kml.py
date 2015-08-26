@@ -119,7 +119,6 @@ def geoCoder(list):
             try:
                 location = geolocator.geocode(site.address)
                 site.coordinates(location.latitude, location.longitude)
-                time.sleep(0.5)
 
             except GeocoderTimedOut as e:
                 print "Error: geocode failed on input %s with message %s" % (site.name, e)
