@@ -48,6 +48,9 @@ with open("googleV3API.txt", "r") as googleAPI:
     myAPI = googleAPI.read()
 
 def siteType():
+    """Allows user to specify if the data being imported/map being exported contains Tandem Educational Partner or Tandem Organizational Partner data.
+    """
+
     tandemEdSite = True
     validEntry = False
     while validEntry != True:
@@ -73,6 +76,9 @@ def csvImport():
     return data
 
 def objectify(inData):
+    """Stores data from imported CSV as attributes in a list of objects.
+    """
+
     print "Building data structure..."
     
     if tandemEdSite == True:
@@ -92,6 +98,10 @@ def objectify(inData):
     print "Data structure built!"
 
 def geoCoder(list):
+    """Utilizes the geopy module to convert addresses to lat. and long.
+    Google API key is stored in a separate file.
+    """
+
     print "Converting addresses to coordinates..."
     geolocator = GoogleV3(api_key = myAPI)
     pbar = ProgressBar()
@@ -121,6 +131,10 @@ def geoCoder(list):
     return list
 
 def kmlConvert(list):
+    """Converts data stored in the list of objects and converts to KML points.
+    User specifies output file name, .kml file suffix is automatically appended.
+    """
+
     kml = simplekml.Kml()
     
     site_style = simplekml.Style()
