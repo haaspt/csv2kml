@@ -54,6 +54,7 @@ script, targetFile = argv
 
 with open("googleV3API", "r") as googleAPI:
     myAPI = googleAPI.read()
+    googleAPI.close()
 
 def siteType():
     """Allows user to specify if the data being imported/map being exported contains Tandem Educational Partner or Tandem Organizational Partner data.
@@ -79,7 +80,7 @@ def csvImport():
     with open(targetFile, 'rU') as file:
         print "Loading data from CSV..."
         data = list(rec for rec in csv.reader(file, delimiter = ","))
-    
+        file.close()
     print "CSV data loaded!"
     return data
 
@@ -119,7 +120,9 @@ def geoCoder(list):
             try:
                 location = geolocator.geocode(site.address)
                 site.coordinates(location.latitude, location.longitude)
-
+                """In case of excessive timeout errors use this code:
+                time.sleep(0.5)
+                """
             except GeocoderTimedOut as e:
                 print "Error: geocode failed on input %s with message %s" % (site.name, e)
                 errorCount += 1
