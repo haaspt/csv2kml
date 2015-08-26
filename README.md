@@ -11,7 +11,7 @@ Required CSV format:
 
 Required files to run:
 
-– csv2kml: csv2kml.py
+- csv2kml: csv2kml.py
 - Google API Doc: googleV3API.txt   #GoogleV3 APIs can be obtained at https://console.developers.google.com
 - Properly formatted CSV file: yourfilename.csv
 
