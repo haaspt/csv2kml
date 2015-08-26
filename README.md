@@ -23,7 +23,10 @@ Changes
 -------
 
 - v1.0   : 2015-08-26
-           Initial stable release. Can produce maps for external consumption of either Ed or Org Partners, based on user choice.
+            Initial stable release. Can produce maps for external consumption of either Ed or Org Partners, based on user choice.
+
++ v1.1   : 2015-08-26
+            If the Google server times out the program will now loop until it gets a valid response, rather than moving to the next entry.
  
 
 To-Do
