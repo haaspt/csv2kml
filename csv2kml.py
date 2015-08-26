@@ -1,4 +1,4 @@
-==================================================================================================
+#==================================================================================================
 # csv2kml.py
 # ------------
 #
@@ -7,7 +7,7 @@
 # Patrick Tyler Haas
 # patrick.tyler.haas@gmail.com
 #
- ==================================================================================================
+# ==================================================================================================
 
 import csv
 import os
@@ -20,6 +20,10 @@ from ssl import SSLError
 from sys import argv
 
 class Site(object):
+    """
+    Object to store information about Educational Sites.
+    """
+
     def __init__(self, name, address, status, staffLead, email):
         self.name = name
         self.address = address
@@ -32,6 +36,10 @@ class Site(object):
         self.longitude = longitude
 
 class Partner(object):
+    """
+    Object to store information about Partner Organizations.
+    """
+
     def __init__(self, name, address):
         self.name = name
         self.address = address
@@ -44,7 +52,7 @@ os.system('clear')
 
 script, targetFile = argv
 
-with open("googleV3API.txt", "r") as googleAPI:
+with open("googleV3API", "r") as googleAPI:
     myAPI = googleAPI.read()
 
 def siteType():
