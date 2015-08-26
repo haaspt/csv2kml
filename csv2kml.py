@@ -115,20 +115,21 @@ def geoCoder(list):
     pbar = ProgressBar()
     errorCount = 0
     for site in pbar(list):
-        try:
-            location = geolocator.geocode(site.address)
-            site.coordinates(location.latitude, location.longitude)
-            time.sleep(0.5)
+        while hasattr(site, "latitude") != True:
+            try:
+                location = geolocator.geocode(site.address)
+                site.coordinates(location.latitude, location.longitude)
+                time.sleep(0.5)
 
-        except GeocoderTimedOut as e:
-            print "Error: geocode failed on input %s with message %s" % (site.name, e)
-            errorCount += 1
-        except GeocoderServiceError as e:
-            print "Error: geocode failed on input %s with message %s" % (site.name, e)
-            errorCount += 1
-        except SSLError as e:
-            print "Error: geocode failed on input %s with message %s" % (site.name, e)
-            errorCount += 1
+            except GeocoderTimedOut as e:
+                print "Error: geocode failed on input %s with message %s" % (site.name, e)
+                errorCount += 1
+            except GeocoderServiceError as e:
+                print "Error: geocode failed on input %s with message %s" % (site.name, e)
+                errorCount += 1
+            except SSLError as e:
+                print "Error: geocode failed on input %s with message %s" % (site.name, e)
+                errorCount += 1
 
     if errorCount == 0:
         print "Addresses successfully converted!"
