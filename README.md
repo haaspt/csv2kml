@@ -1,7 +1,7 @@
 csv2kml
 =========
 
-Program to convert data from a properly formatted CSV file to a Google Earth KML file. Created to map Educational and Organizational Parters of Tandem, Partners in Early Learning.
+Program to convert data from a properly formatted CSV file to a Google Earth KML file. Designed to map Educational and Organizational Parters of Tandem, Partners in Early Learning.
 
 Required CSV format:
 

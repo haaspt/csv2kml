@@ -1,4 +1,4 @@
-#==================================================================================================
+# ==================================================================================================
 # csv2kml.py
 # ------------
 #
@@ -11,29 +11,32 @@
 
 import csv
 import os
+from ssl import SSLError
+from sys import argv
+import argparse
+
 import simplekml
-import time
 from geopy.geocoders import GoogleV3
 from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 from progressbar import ProgressBar
-from ssl import SSLError
-from sys import argv
+
 
 class Site(object):
     """
     Object to store information about Educational Sites.
     """
 
-    def __init__(self, name, address, status, staffLead, email):
+    def __init__(self, name, address, staffLead, status, email):
         self.name = name
         self.address = address
-        self.status = status
         self.staffLead = staffLead
+        self.status = status
         self.email = email
 
     def coordinates(self, latitude, longitude):
         self.latitude = latitude
         self.longitude = longitude
+
 
 class Partner(object):
     """
@@ -48,13 +51,18 @@ class Partner(object):
         self.latitude = latitude
         self.longitude = longitude
 
+
 os.system('clear')
 
-script, targetFile = argv
+parser = argparse.ArgumentParser()
+parser.add_argument("targetFile", help = "the CSV file to be loaded")
+parser.add_argument("-i", "--internal", action = "store_true", help = "KML output is designed for internal Tandem usage")
+args = parser.parse_args()
 
 with open("googleV3API", "r") as googleAPI:
     myAPI = googleAPI.read()
     googleAPI.close()
+
 
 def siteType():
     """Allows user to specify if the data being imported/map being exported contains Tandem Educational Partner or Tandem Organizational Partner data.
@@ -62,8 +70,9 @@ def siteType():
 
     tandemEdSite = True
     validEntry = False
-    while validEntry != True:
-        siteType = raw_input("1) Tandem Educational Partners \n\n2) Tandem Organizational Partners \n\nPlease select site type: ")
+    while not validEntry:
+        siteType = raw_input(
+            "1) Tandem Educational Partners \n\n2) Tandem Organizational Partners \n\nPlease select site type: ")
         if siteType == "1":
             tandemEdSite = True
             validEntry = True
@@ -73,24 +82,26 @@ def siteType():
         else:
             print "\nYour entry is invalid, please select either '1' or '2'.\n"
             validEntry = False
-    
+
     return tandemEdSite
 
+
 def csvImport():
-    with open(targetFile, 'rU') as file:
+    with open(args.targetFile, 'rU') as csvfile:
         print "Loading data from CSV..."
-        data = list(rec for rec in csv.reader(file, delimiter = ","))
-        file.close()
+        data = list(rec for rec in csv.reader(csvfile, delimiter=","))
+        csvfile.close()
     print "CSV data loaded!"
     return data
+
 
 def objectify(inData):
     """Stores data from imported CSV as attributes in a list of objects.
     """
 
     print "Building data structure..."
-    
-    if tandemEdSite == True:
+
+    if tandemEdSite:
         siteList = []
         for name, address, staffLead, status, email in inData:
             siteList.append(Site(name, address, staffLead, status, email))
@@ -101,10 +112,9 @@ def objectify(inData):
         partnerList = []
         for name, address in inData:
             partnerList.append(Partner(name, address))
-        
+
         return partnerList
 
-    print "Data structure built!"
 
 def geoCoder(list):
     """Utilizes the geopy module to convert addresses to lat. and long.
@@ -112,11 +122,11 @@ def geoCoder(list):
     """
 
     print "Converting addresses to coordinates..."
-    geolocator = GoogleV3(api_key = myAPI)
+    geolocator = GoogleV3(api_key=myAPI)
     pbar = ProgressBar()
     errorCount = 0
     for site in pbar(list):
-        while hasattr(site, "latitude") != True:
+        while not hasattr(site, "latitude"):
             try:
                 location = geolocator.geocode(site.address)
                 site.coordinates(location.latitude, location.longitude)
@@ -137,32 +147,42 @@ def geoCoder(list):
         print "Addresses successfully converted!"
     else:
         print "Addresses converted."
-        print "Proces returned %r errors." % errorCount
-    
+        print "Process returned %r errors." % errorCount
+
     return list
 
-def kmlConvert(list):
+
+def kmlConvert(sitelist):
     """Converts data stored in the list of objects and converts to KML points.
     User specifies output file name, .kml file suffix is automatically appended.
     """
 
     kml = simplekml.Kml()
-    
-    site_style = simplekml.Style()
-    
-    if tandemEdSite == True:
-        site_style.iconstyle.icon.href = "http://www.tandembayarea.org/wp-content/uploads/2015/08/tandemEduMarker.png"
+
+
+    style_dict = {"Red": "http://maps.google.com/mapfiles/kml/paddle/red-blank.png", "Yellow": "http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png", "Green": "http://maps.google.com/mapfiles/kml/paddle/grn-blank.png", "New": "http://maps.google.com/mapfiles/kml/paddle/blu-blank.png"}
+
+    if args.internal:
+        pass
     else:
-        site_style.iconstyle.icon.href = "http://www.tandembayarea.org/wp-content/uploads/2015/08/tandemPartMarker.png"
-
-    for site in list:
-        pnt = kml.newpoint()
-        pnt.name = site.name
-
-        if tandemEdSite == True:
-            pnt.description = "For questions about this site please contact %s. \n %s" % (site.staffLead, site.email)
+        if tandemEdSite:
+            site_style.iconstyle.icon.href = "http://www.tandembayarea.org/wp-content/uploads/2015/08/tandemEduMarker.png"
         else:
-            pnt.description = "A Tandem Partner Site"
+            site_style.iconstyle.icon.href = "http://www.tandembayarea.org/wp-content/uploads/2015/08/tandemPartMarker.png"
+
+    for site in sitelist:
+        pnt = kml.newpoint()
+        site_style = simplekml.Style()
+        pnt.name = site.name
+        site_style.iconstyle.icon.href = style_dict[site.status]
+
+        if args.internal:
+            pnt.description = "%s \n\n %s" % (site.staffLead, site.address)
+        else:
+            if tandemEdSite:
+                pnt.description = "For questions about this site please contact %s. \n %s" % (site.staffLead, site.email)
+            else:
+                pnt.description = "A Tandem Partner Site"
 
         pnt.coords = [(site.longitude, site.latitude)]
         pnt.style = site_style
@@ -173,7 +193,10 @@ def kmlConvert(list):
 
     return
 
-tandemEdSite = siteType()
+if args.internal:
+    tandemEdSite = True
+else:
+    tandemEdSite = siteType()
 
 data = csvImport()
 

@@ -1,0 +1,3417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Style id="stylesel_0">
+            <IconStyle id="substyle_0">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_0">
+                    <href>http://www.tandembayarea.org/wp-content/uploads/2015/08/tandemEduMarker.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="feat_2">
+            <name>Jackie &amp; Her Kids</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_0">
+                <coordinates>-122.429044,37.7770768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>FranDelJa Enrichment Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_1">
+                <coordinates>-122.3870576,37.7177863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>It Takes a Village</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_2">
+                <coordinates>-122.4259544,37.7803298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>Montessori Children's Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_3">
+                <coordinates>-122.4791432,37.7182849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>Nihonmachi Little Friends Bush Street Site</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_4">
+                <coordinates>-122.43059,37.78709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>Care Bear Family Child Care</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_5">
+                <coordinates>-122.496462,37.732312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>Alvarado Elementary School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_6">
+                <coordinates>-122.4385279,37.7537275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>Golden Gate Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_7">
+                <coordinates>-122.4135064,37.7819396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>Western Addition Childcare</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_8">
+                <coordinates>-122.434432,37.778939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>Just Like Mom Preschool</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_9">
+                <coordinates>-122.4776435,37.7441471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>Happy Face Family Preschool</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_10">
+                <coordinates>-122.45189,37.730427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>Sunlight Day Care</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_11">
+                <coordinates>-122.4928057,37.745893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>Family Developmental Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_12">
+                <coordinates>-122.4091574,37.7504536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>Malcolm X Elementary School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_13">
+                <coordinates>-122.3809464,37.733877,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>Leonard R. Flynn Elementary School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_14">
+                <coordinates>-122.4120274,37.7482332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>Paul Revere Elementary School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_15">
+                <coordinates>-122.4127918,37.7366524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>Presidio Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_16">
+                <coordinates>-122.460557,37.7982566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>Mission Bay Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_17">
+                <coordinates>-122.3922426,37.7767851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>Kirkwood Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_18">
+                <coordinates>-122.3738344,37.7288686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>CCSF John Adams Campus - Orfalea Family Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_19">
+                <coordinates>-122.4471193,37.7740693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>Tenderloin Community Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_20">
+                <coordinates>-122.4198584,37.7818705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>UCSF Kirkham Child Development Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_21">
+                <coordinates>-122.4606892,37.7605771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>Tule Elk Park Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_22">
+                <coordinates>-122.4349544,37.7991024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>Starr King Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_23">
+                <coordinates>-122.3989393,37.7533196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>Compass Children's Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_24">
+                <coordinates>-122.4137033,37.7824393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>Magic Wings Day Care</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_25">
+                <coordinates>-122.4774585,37.7189992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>Rutilia Marroquin FCC</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_26">
+                <coordinates>-122.4140317,37.7519675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>Delia's Little Angels Family Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_27">
+                <coordinates>-122.387691,37.729961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>Lisa's Family Child Care and Learning Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_28">
+                <coordinates>-122.430651,37.77132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>Sojourner Truth Development Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_29">
+                <coordinates>-122.3820627,37.7356991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>Esperanza Estrada FCC</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_30">
+                <coordinates>-122.429634,37.725352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>The Painting Corner Child Care</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_31">
+                <coordinates>-122.45476,37.709722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>Leola M. Havard Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_32">
+                <coordinates>-122.3890433,37.7345061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>Women's Building Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_33">
+                <coordinates>-122.422619,37.76142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>Southeast Families United Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_34">
+                <coordinates>-122.3838305,37.7400158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>Excelsior at Guadalupe Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_35">
+                <coordinates>-122.4345616,37.7101912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>Cleveland Elementary School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_36">
+                <coordinates>-122.4290693,37.7207647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>Paul Revere Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_37">
+                <coordinates>-122.4127918,37.7366524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>Jefferson Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_38">
+                <coordinates>-122.4834562,37.7623466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>Holy Family Day Home</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_39">
+                <coordinates>-122.4260554,37.7648702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>Zaida T. Rodriguez Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_40">
+                <coordinates>-122.4193523,37.7501414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>Buen Dia Family School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_41">
+                <coordinates>-122.4236221,37.761924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>Cleo Wallace Child Growth Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_42">
+                <coordinates>-122.3949875,37.7563969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>YMCA Mission Preschool</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_43">
+                <coordinates>-122.4278545,37.7325142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>Compass Clara House</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_44">
+                <coordinates>-122.4230998,37.7738268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>Shalom School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_45">
+                <coordinates>-122.487121,37.773133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>Treasure Island Child Development Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_46">
+                <coordinates>-122.373144,37.8256269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>Valencia Gardens Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_47">
+                <coordinates>-122.4222443,37.7670369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>Westside</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_48">
+                <coordinates>-122.4413684,37.7841203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>Ana Azucena's Day Care</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_49">
+                <coordinates>-122.41695,37.7538236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>Rosaura Aceves FCC</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_50">
+                <coordinates>-122.4052121,37.7114307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>Renee Underwood FCC</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_51">
+                <coordinates>-122.387444,37.735493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>Guidry Early Child Education Program</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_52">
+                <coordinates>-122.462055,37.713779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>Cadillac Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_53">
+                <coordinates>-122.4141378,37.7840355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>Raphael Weill Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_54">
+                <coordinates>-122.4298556,37.7830349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>John Muir Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_55">
+                <coordinates>-122.4290958,37.7737881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>Carmen's Daycare</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_56">
+                <coordinates>-122.455817,37.718682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>CCSF Mission Campus - Child Development Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_57">
+                <coordinates>-122.4206292,37.754759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>Epiphany Parent-Child Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_58">
+                <coordinates>-122.4471199,37.7806658,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>Stevenson Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_59">
+                <coordinates>-122.422059,37.771152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>Southeast Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_60">
+                <coordinates>-122.3938211,37.7372931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>Little Children's Developmental Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_61">
+                <coordinates>-122.4310952,37.7822927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>OMI Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_62">
+                <coordinates>-122.471972,37.717466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>Theresa S. Mahler Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_63">
+                <coordinates>-122.4281494,37.7555453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>Capp Street Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_64">
+                <coordinates>-122.418229,37.7609397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>Regina Chiong Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_65">
+                <coordinates>-122.4122022,37.7526026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>Fairmount Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_66">
+                <coordinates>-122.4248397,37.7402134,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>Las Americas Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_67">
+                <coordinates>-122.4134381,37.7573485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>Jean Jacobs Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_68">
+                <coordinates>-122.4297062,37.7210817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>San Miguel Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_69">
+                <coordinates>-122.4452411,37.7216375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>Glide Child Care &amp; Family Support</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_70">
+                <coordinates>-122.4134737,37.7850446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>Sheridan Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_71">
+                <coordinates>-122.4597756,37.7146245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>Grace Cathedral Community Preschool</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_72">
+                <coordinates>-122.4131913,37.7918261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>Bernal Dwellings Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_73">
+                <coordinates>-122.4123062,37.749292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>Chibi Chan Preschool</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_74">
+                <coordinates>-122.437266,37.7874792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>Potrero Hill Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_75">
+                <coordinates>-122.4002434,37.7582382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>Playland Preschool</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_76">
+                <coordinates>-122.4977682,37.7632796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>CCSF Ocean Campus - Orfalea Family Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_77">
+                <coordinates>-122.4511146,37.725819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>San Francisco Public Montessori</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_78">
+                <coordinates>-122.4336282,37.7927605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>Mio Preschool</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_79">
+                <coordinates>-122.432413,37.727357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>Oscaryne Williams Infant and Toddler Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_80">
+                <coordinates>-122.3949285,37.7562168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>YMCA Stonestown - St. Francis Preschool</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_81">
+                <coordinates>-122.4697368,37.730393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>Isolina's Preschool and Daycare</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_82">
+                <coordinates>-122.427266,37.7270589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>Alemany Head Start Center</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_83">
+                <coordinates>-122.4185135,37.7329129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>Friends of St. Francis Childcare Center, Inc.</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_84">
+                <coordinates>-122.4303398,37.7685875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>Junipero Serra (Annex) Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_85">
+                <coordinates>-122.4217807,37.7379855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>Centro Las Olas</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_86">
+                <coordinates>-122.4236539,37.7486977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>Sanchez Early Education School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_87">
+                <coordinates>-122.4305343,37.7634489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>El Dorado Elementary School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_88">
+                <coordinates>-122.4072593,37.7185653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>Sanchez Elementary School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_89">
+                <coordinates>-122.4305343,37.7634489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>Excelsior Family Connections</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_90">
+                <coordinates>-122.4367709,37.7239149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>Sheridan Elementary School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_91">
+                <coordinates>-122.4597756,37.7146245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>Frank McCoppin Elementary School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_92">
+                <coordinates>-122.4639704,37.7762861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>Daniel Webster Elementary School</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_93">
+                <coordinates>-122.3958785,37.76067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>Mission Childcare Consortium, Inc.</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_94">
+                <coordinates>-122.437282,37.722256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>Nihonmachi Little Friends Sutter Street Site</name>
+            <description>For questions about this site please contact Kelsey Gottschalk. 
+ kelsey@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_95">
+                <coordinates>-122.430563,37.78671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>West Berkeley Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_96">
+                <coordinates>-122.292793,37.868395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>EHS Home Visitors</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_97">
+                <coordinates>-122.2711085,37.8052939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>Oceanview Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_98">
+                <coordinates>-122.2953295,37.8779628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>Greenleaf</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_99">
+                <coordinates>-122.1943384,37.7646264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>South YMCA Early Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_100">
+                <coordinates>-122.2769425,37.8549948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>Yuk Yau Main CDC</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_101">
+                <coordinates>-122.2691203,37.7998745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>Madison Park Academy</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_102">
+                <coordinates>-122.176582,37.727981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>Hoover Elementary</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_103">
+                <coordinates>-122.2729327,37.8226095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>Parker Elementary</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_104">
+                <coordinates>-122.1657365,37.7655642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>South YMCA Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_105">
+                <coordinates>-122.2769425,37.8549948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>Oceanview Early Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_106">
+                <coordinates>-122.2953295,37.8779628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>Learning Without Limits</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_107">
+                <coordinates>-122.2130426,37.7800607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>Berkeley Home Base</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_108">
+                <coordinates>-122.292793,37.868395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>West Berkeley Early Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_109">
+                <coordinates>-122.292793,37.868395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>Global Family School</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_110">
+                <coordinates>-122.2130426,37.7800607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>PLACE @ Prescott</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_111">
+                <coordinates>-122.2978647,37.8085163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>Community United Elementary</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_112">
+                <coordinates>-122.1920065,37.7611287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>Broadway Early Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_113">
+                <coordinates>-122.2647662,37.8154289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>Frank G. Mar Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_114">
+                <coordinates>-122.2679487,37.8014641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>Acorn Woodland CDC</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_115">
+                <coordinates>-122.1869131,37.7528862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>La Escuelita Elementary</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_116">
+                <coordinates>-122.2570204,37.7955602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>Fannie Wall Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_117">
+                <coordinates>-122.265925,37.8399829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>Vera Casey Early Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_118">
+                <coordinates>-122.272798,37.867094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>Lockwood CDC</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_119">
+                <coordinates>-122.1919234,37.7596342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>Fame Early Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_120">
+                <coordinates>-122.2656297,37.8261424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>Thurgood Marshall EHS</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_121">
+                <coordinates>-122.2864828,37.80647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>Alice Street CDC</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_122">
+                <coordinates>-122.2649986,37.805305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>Saint Vincent's Day Home</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_123">
+                <coordinates>-122.2860895,37.8049107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>West Grand Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_124">
+                <coordinates>-122.2820814,37.8153374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>Harriet Tubman CDC</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_125">
+                <coordinates>-122.2727532,37.8233111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>Ralph Hawley Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_126">
+                <coordinates>-122.2881435,37.8429835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>Lion Creek Crossings Head Start</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_127">
+                <coordinates>-122.1973771,37.7567408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>Markham Elementary</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_128">
+                <coordinates>-122.1785765,37.7653407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>Jefferson CDC</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_129">
+                <coordinates>-122.2141017,37.7786487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>Martin Luther King Elementary</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_130">
+                <coordinates>-122.282771,37.806313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>Encompass</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_131">
+                <coordinates>-122.1869131,37.7528862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>Fred T Korematsu Discovery Academy</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_132">
+                <coordinates>-122.1735356,37.7374958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>ASCEND</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_133">
+                <coordinates>-122.2215593,37.773589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>Lazear Charter Academy</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_134">
+                <coordinates>-122.231668,37.775775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>21st YMCA CDC</name>
+            <description>For questions about this site please contact J Jimenez. 
+ j@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_135">
+                <coordinates>-122.2755082,37.8120425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>Xiao Ling Liao FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_136">
+                <coordinates>-122.405448,37.730226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>True Sunshine Preschool Center, Inc.</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_137">
+                <coordinates>-122.4078696,37.7929917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>Wu Yee Playgroup</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_138">
+                <coordinates>-122.4084994,37.7909427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>Wu Yee Home Base</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_139">
+                <coordinates>-122.4076891,37.7941834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>Jose Ortega Elementary School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_140">
+                <coordinates>-122.4669559,37.716573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>OMI Child Care</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_141">
+                <coordinates>-122.4093518,37.7134711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>Wah Mei School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_142">
+                <coordinates>-122.4775147,37.7618754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>Martha Hills Learning Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_143">
+                <coordinates>-122.3944279,37.7190119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>Dr. Charles R. Drew Elementary School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_144">
+                <coordinates>-122.3940101,37.7315924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>Kai Ming St. Luke Head Start Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_145">
+                <coordinates>-122.4222367,37.7920526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>Portola Family Connections</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_146">
+                <coordinates>-122.4041334,37.729499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>Tracy Liang FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_147">
+                <coordinates>-122.410367,37.799024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>Sweet Home Child Care</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_148">
+                <coordinates>-122.428399,37.71833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>Lok Yuen Child Development Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_149">
+                <coordinates>-122.4076891,37.7941834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>FACES-SF Bayview Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_150">
+                <coordinates>-122.384142,37.7340633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>Telegraph Hill Neighborhood Center Preschool</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_151">
+                <coordinates>-122.4124557,37.8031812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>Kai Ming Richmond Head Start Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_152">
+                <coordinates>-122.4931908,37.7810497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>Rainbow Infant Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_153">
+                <coordinates>-122.4084403,37.7967004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>FACES-SF Masonic Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_154">
+                <coordinates>-122.4458042,37.7709066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>Generations Child Development Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_155">
+                <coordinates>-122.4038914,37.7983747,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>Child's Time Preschool</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_156">
+                <coordinates>-122.4014848,37.7229519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>Qunijie (Maggie) Fan FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_157">
+                <coordinates>-122.400066,37.715054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>Hillcrest Elementary School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_158">
+                <coordinates>-122.4189329,37.7287815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>Brenda Smith FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_159">
+                <coordinates>-122.393257,37.731322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>Busy Bee Childcare</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_160">
+                <coordinates>-122.4093518,37.7134711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>Argonne Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_161">
+                <coordinates>-122.474197,37.7739163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>Bret Harte Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_162">
+                <coordinates>-122.389494,37.718359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>Bessie Carmichael Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_163">
+                <coordinates>-122.4065093,37.7762168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>Belvedere Montessori</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_164">
+                <coordinates>-122.449562,37.767662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>Martin Luther King Childcare</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_165">
+                <coordinates>-122.3860847,37.7369604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>Mei Rong Yan FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_166">
+                <coordinates>-122.44549,37.713509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>Jeanne Ng Family Daycare</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_167">
+                <coordinates>-122.431418,37.729362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>Gordon J. Lau Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_168">
+                <coordinates>-122.4093473,37.7939131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>Salvation Army Harbor House</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_169">
+                <coordinates>-122.4091855,37.7721795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>APA Family Support Services</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_170">
+                <coordinates>-122.4049777,37.7977296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>Chinatown &quot;Little Sprouts&quot; Child Development Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_171">
+                <coordinates>-122.410828,37.7971849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>Grattan Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_172">
+                <coordinates>-122.4504803,37.7636309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>Bryant Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_173">
+                <coordinates>-122.404906,37.7516281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>Angela Castro FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_174">
+                <coordinates>-122.42458,37.729252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>Dr. Charles R. Drew Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_175">
+                <coordinates>-122.3940101,37.7315924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>KV FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_176">
+                <coordinates>-122.403065,37.725527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>Philip Yuan FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_177">
+                <coordinates>-122.4856117,37.7775965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>Sandy Chow FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_178">
+                <coordinates>-122.4088805,37.7277802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>Angela Siharath FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_179">
+                <coordinates>-122.396714,37.712103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>ABC Preschool</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_180">
+                <coordinates>-122.4931908,37.7810497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>Little Sunshine Preschool</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_181">
+                <coordinates>-122.501834,37.737398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>Chinatown Community Children's Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_182">
+                <coordinates>-122.4090963,37.7936506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>Siu Kam Cheung FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_183">
+                <coordinates>-122.401369,37.727928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>Selina Chen FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_184">
+                <coordinates>-122.486701,37.742076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>Kai Ming TKL Head Start Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_185">
+                <coordinates>-122.409325,37.7935972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>Children's Council of San Francisco</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_186">
+                <coordinates>-122.4282253,37.7637658,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>Good Samaritan Family Resource Center Preschool</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_187">
+                <coordinates>-122.4064593,37.7518895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>Kai Ming Geary Head Start Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_188">
+                <coordinates>-122.4863167,37.7797503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>FACES-SF Hayes Valley Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_189">
+                <coordinates>-122.4273571,37.7727046,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>Kai Ming Sunset Head Start Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_190">
+                <coordinates>-122.4962006,37.7423137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>Delta Preschool</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_191">
+                <coordinates>-122.4093518,37.7134711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>Coo Child Care</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_192">
+                <coordinates>-122.465175,37.773928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>John McLaren Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_193">
+                <coordinates>-122.4234838,37.7137047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>1st Place 2 Start</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_194">
+                <coordinates>-122.4136434,37.7114288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>Rainbow Preschool</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_195">
+                <coordinates>-122.4084403,37.7967004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>E.R.Taylor Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_196">
+                <coordinates>-122.4075501,37.7277831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>Cesar Chavez Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_197">
+                <coordinates>-122.4151875,37.7549534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>Kai Ming Broadway Head Start Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_198">
+                <coordinates>-122.4008913,37.7990618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>The Family School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_199">
+                <coordinates>-122.4181212,37.7478925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>Commodore Stockton Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_200">
+                <coordinates>-122.408929,37.7948629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>Caye Child Care</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_201">
+                <coordinates>-122.4735952,37.7545212,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>Xue Lan Kuang FCC</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_202">
+                <coordinates>-122.416719,37.708736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>Kai Ming North Beach Head Start Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_203">
+                <coordinates>-122.4164561,37.8048328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>Noriega Early Education School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_204">
+                <coordinates>-122.5036734,37.7535946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>Yerba Buena Gardens Child Development Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_205">
+                <coordinates>-122.400876,37.7825045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>Judith Baker Child Development Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_206">
+                <coordinates>-122.4117815,37.7769907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>Sunnydale Child Development Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_207">
+                <coordinates>-122.4183006,37.7097739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>Gordon J. Lau Elementary School</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_208">
+                <coordinates>-122.4093473,37.7939131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>Wu Yee Home Base-Kirkwood Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_209">
+                <coordinates>-122.3738344,37.7288686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>Lorenzo Manor Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_210">
+                <coordinates>-122.1182492,37.6745505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>Brighter Beginnings</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_211">
+                <coordinates>-122.2329138,37.7814273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>Maloney Elementary</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_212">
+                <coordinates>-121.9983457,37.5458231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>1190 Davis St Children's Center</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_213">
+                <coordinates>-122.1688261,37.7217445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>Highland CDC</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_214">
+                <coordinates>-122.1777111,37.75193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>Garfield Elementary</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_215">
+                <coordinates>-122.2356409,37.7865043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>Precious Little Hands</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_216">
+                <coordinates>-122.204633,37.7910449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>D' Auria's Treehouse</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_217">
+                <coordinates>-122.161859,37.739902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>Brookfield Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_218">
+                <coordinates>-122.185122,37.737209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>Sankofa Academy</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_219">
+                <coordinates>-122.2646297,37.8469502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>Royal Sunset Preschool</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_220">
+                <coordinates>-122.114452,37.6696219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>Sungate Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_221">
+                <coordinates>-122.233443,37.7818964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>Stonehurst CDC</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_222">
+                <coordinates>-122.174702,37.7358019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>Foothill Square Early Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_223">
+                <coordinates>-122.1502506,37.7430861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>Tender Arms</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_224">
+                <coordinates>-122.191736,37.770275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>Allendale</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_225">
+                <coordinates>-122.204787,37.7885972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>Hillside Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_226">
+                <coordinates>-122.1163668,37.7017466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>San Leandro Adult School Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_227">
+                <coordinates>-122.1702822,37.714026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>Brookfield CDC</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_228">
+                <coordinates>-122.1889938,37.7344607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>Mada Hudson's Family Daycare</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_229">
+                <coordinates>-122.170179,37.766211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>Arroyo Viejo Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_230">
+                <coordinates>-122.1757183,37.7617365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>85th Avenue Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_231">
+                <coordinates>-122.1773593,37.7529911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>Manzanita Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_232">
+                <coordinates>-122.227912,37.794261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>Virginia Ave Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_233">
+                <coordinates>-122.19995,37.783685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>Fruitvale CDC</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_234">
+                <coordinates>-122.2137663,37.7962778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>92nd Ave. Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_235">
+                <coordinates>-122.173485,37.7486498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>Tassafaronga</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_236">
+                <coordinates>-122.1841275,37.7503146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>San Antonio CDC Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_237">
+                <coordinates>-122.2362979,37.7851969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>Madison Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_238">
+                <coordinates>-122.1605105,37.6945254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>Manzanita CDC</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_239">
+                <coordinates>-122.2264367,37.7918521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>Bella Vista CDC</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_240">
+                <coordinates>-122.239984,37.798691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>Hamilton Family Childcare</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_241">
+                <coordinates>-122.18999,37.764787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>Vallejo Mill Elementary</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_242">
+                <coordinates>-121.9606206,37.5746515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>St. Mary's Center Preschool</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_243">
+                <coordinates>-122.276924,37.822858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>Cabrillo Elementary</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_244">
+                <coordinates>-122.023988,37.5518123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>Durham Elementary</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_245">
+                <coordinates>-121.966316,37.542378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>Eastmont Mall Head Start</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_246">
+                <coordinates>-122.1767049,37.7671679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_249">
+            <name>Oakland Home Base Visitor Program</name>
+            <description>For questions about this site please contact Kajal Shahali. 
+ kajal@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_247">
+                <coordinates>-122.2679487,37.8014641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_250">
+            <name>Centro Infantil Main CDC</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_248">
+                <coordinates>-122.2299056,37.7827478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_251">
+            <name>Jackson Migrant</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_249">
+                <coordinates>-121.7414719,37.6850539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_252">
+            <name>Hawthorne Family Resource Center</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_250">
+                <coordinates>-122.2143323,37.7729273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_253">
+            <name>International CDC</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_251">
+                <coordinates>-122.230619,37.7793766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_254">
+            <name>International Community School</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_252">
+                <coordinates>-122.230619,37.7793766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_255">
+            <name>Marilyn Avenue Migrant Enrichment</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_253">
+                <coordinates>-121.7860807,37.6845737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_256">
+            <name>Unity Council Home Base</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_254">
+                <coordinates>-122.2236894,37.7751563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_257">
+            <name>Sequoia Elementary</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_255">
+                <coordinates>-122.2109638,37.8024159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_258">
+            <name>Junction Migrant Enrichment</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_256">
+                <coordinates>-121.766303,37.687582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_259">
+            <name>Fruitvale Head Start</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_257">
+                <coordinates>-122.2228653,37.783023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_260">
+            <name>Franklin Head Start</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_258">
+                <coordinates>-122.2805191,37.808875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_261">
+            <name>San Antonio Park Head Start</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_259">
+                <coordinates>-122.2397674,37.7909078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_262">
+            <name>Emerson CDC</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_260">
+                <coordinates>-122.258046,37.83457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_263">
+            <name>Martha Rebollo FCC</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_261">
+                <coordinates>-122.158484,37.740094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_264">
+            <name>Davis Street @ Jefferson</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_262">
+                <coordinates>-122.135365,37.712952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_265">
+            <name>Jefferson Head Start</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_263">
+                <coordinates>-122.1350646,37.7118008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_266">
+            <name>Decolores EHS and HS</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_264">
+                <coordinates>-122.2236894,37.7751563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_267">
+            <name>Webster CDC</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_265">
+                <coordinates>-122.1772389,37.759539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_268">
+            <name>Emerson Elementary</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_266">
+                <coordinates>-122.2573247,37.8343895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_269">
+            <name>Child Day Schools</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_267">
+                <coordinates>-121.803038,37.997292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_270">
+            <name>Marina Vista Elementary</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_268">
+                <coordinates>-121.8858193,38.0291968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_271">
+            <name>Best Beginnings FCC</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_269">
+                <coordinates>-121.927011,38.016664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_272">
+            <name>Little People's Day Care</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_270">
+                <coordinates>-121.870653,38.017149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_273">
+            <name>Tiny Hands, Tiny Feet</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_271">
+                <coordinates>-121.7239826,37.9403717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_274">
+            <name>Little Angels Country School</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_272">
+                <coordinates>-121.788254,38.003486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_275">
+            <name>First Baptist Head Start - Fairgrounds</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_273">
+                <coordinates>-121.8249275,38.0108926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_276">
+            <name>Martha's Family Day Care</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_274">
+                <coordinates>-121.794606,37.992299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_277">
+            <name>MDAE Family Literacy Preschool - Fairoaks</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_275">
+                <coordinates>-122.0505644,37.9446108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_278">
+            <name>First Baptist Head Start - Kids Castle</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_276">
+                <coordinates>-121.897763,37.99507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_279">
+            <name>Wee Wonders FCC</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_277">
+                <coordinates>-121.961747,37.945331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_280">
+            <name>Highlands Elementary</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_278">
+                <coordinates>-121.8859537,37.9989152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_281">
+            <name>Heights Elementary</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_279">
+                <coordinates>-121.88828,38.034403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_282">
+            <name>Parkside Elementary</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_280">
+                <coordinates>-121.900094,38.021482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_283">
+            <name>Los Medanos Elementary</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_281">
+                <coordinates>-121.900331,38.017664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_284">
+            <name>Foothill Elementary</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_282">
+                <coordinates>-121.875205,37.9950059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_285">
+            <name>Home Away From Home Daycare</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_283">
+                <coordinates>-122.053399,37.947946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_286">
+            <name>Willow Cove Elementary</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_284">
+                <coordinates>-121.92691,38.0244967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_287">
+            <name>Antioch First 5 Center</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_285">
+                <coordinates>-121.8131307,38.0149606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_288">
+            <name>Camel Kidz Clubhouse</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_286">
+                <coordinates>-121.80165,37.96845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_289">
+            <name>Martinez Early Childhood Center</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_287">
+                <coordinates>-122.128597,38.007048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_290">
+            <name>Hummingbird Preschool Academy</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_288">
+                <coordinates>-122.067825,37.933514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_291">
+            <name>Atti's Childcare</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_289">
+                <coordinates>-122.080465,37.964225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_292">
+            <name>Happy Days Family Daycare</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_290">
+                <coordinates>-121.882175,38.0109629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_293">
+            <name>Bay Point First 5 Center</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_291">
+                <coordinates>-121.951878,38.0264232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_294">
+            <name>Ms. Trish's Day Care and Preschool</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_292">
+                <coordinates>-121.974728,37.965522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_295">
+            <name>Khulood's Daycare</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_293">
+                <coordinates>-122.06899,37.957077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_296">
+            <name>Rosa Molina Day Care</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_294">
+                <coordinates>-121.810875,37.984036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_297">
+            <name>Stoneman Elementary</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_295">
+                <coordinates>-121.870968,38.0040175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_298">
+            <name>First Memories Family Chldcare</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_296">
+                <coordinates>-121.866596,38.002609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_299">
+            <name>Farideh's Daycare</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_297">
+                <coordinates>-122.084471,37.9891999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_300">
+            <name>123 Ready Set Grow Academy</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_298">
+                <coordinates>-121.801584,37.967341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_301">
+            <name>Gulzarin Engineer's Family Childcare</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_299">
+                <coordinates>-121.606837,37.895345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_302">
+            <name>Little Wonders Preschool</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_300">
+                <coordinates>-121.7238742,38.0033444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_303">
+            <name>Training Children Childcare</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_301">
+                <coordinates>-121.766639,37.965786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_304">
+            <name>Little Sprouts Family Daycare</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_302">
+                <coordinates>-121.717318,37.951596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_305">
+            <name>Kids First Academy</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_303">
+                <coordinates>-121.944551,38.0267726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_306">
+            <name>La Petite Academy</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_304">
+                <coordinates>-121.7873162,37.9955257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_307">
+            <name>Delta First 5 Center</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_305">
+                <coordinates>-121.695293,37.933667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_308">
+            <name>Danny's Day Care</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_306">
+                <coordinates>-121.911037,38.024951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_309">
+            <name>PIxie Playschool Parent Cooperative</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_307">
+                <coordinates>-121.965032,37.963012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_310">
+            <name>God's Little Angels Daycare</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_308">
+                <coordinates>-121.943983,38.007233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_311">
+            <name>Jacquie's Kids Child Care</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_309">
+                <coordinates>-121.777355,37.973095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_312">
+            <name>Luv Muffins Day Care</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_310">
+                <coordinates>-121.95791,38.023788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_313">
+            <name>Shannon Del Prado Evans Family Child Care</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_311">
+                <coordinates>-121.776515,37.969799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_314">
+            <name>Big Bertha's Family Child Care</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_312">
+                <coordinates>-121.824012,37.998133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_315">
+            <name>MDAE Family Literacy Preschool - Shore Acres</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_313">
+                <coordinates>-121.9702481,38.0354649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_316">
+            <name>Los Medanos Child Study Center</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_314">
+                <coordinates>-121.8618178,38.0053521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_317">
+            <name>Mona's Day Care</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_315">
+                <coordinates>-122.055741,37.9428849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_318">
+            <name>MDAE Family Literacy Preschool - Belair</name>
+            <description>For questions about this site please contact Laura Rodriguez. 
+ laura@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_316">
+                <coordinates>-121.9380946,38.0204313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_319">
+            <name>Chavez Elementary School</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_317">
+                <coordinates>-122.3537978,37.9462732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_320">
+            <name>West County First 5 Center</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_318">
+                <coordinates>-122.3419888,37.9577317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_321">
+            <name>MDAE Family Literacy Preschool - Loma Vista</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_319">
+                <coordinates>-122.026447,37.968609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_322">
+            <name>St. Michaels Preschool</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_320">
+                <coordinates>-122.0267635,37.9839106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_323">
+            <name>Grant Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_321">
+                <coordinates>-122.3451342,37.9427776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_324">
+            <name>Angels Montessori</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_322">
+                <coordinates>-121.9794664,37.9634408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_325">
+            <name>Crossroads Necessary Small High School/Parent Ed</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_323">
+                <coordinates>-122.0273736,37.9791672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_326">
+            <name>Chavez Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_324">
+                <coordinates>-122.3537978,37.9462732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_327">
+            <name>Hidden Treasures Learning Center</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_325">
+                <coordinates>-122.043508,37.959601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_328">
+            <name>Building Blocks Children's Center</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_326">
+                <coordinates>-122.035233,37.9491456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_329">
+            <name>Revea's FCC</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_327">
+                <coordinates>-122.260126,37.998672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_330">
+            <name>Lucy's Family Child Care &amp; Preschool</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_328">
+                <coordinates>-122.046728,37.962475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_331">
+            <name>Small World Montessori</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_329">
+                <coordinates>-122.3093847,37.9770082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_332">
+            <name>Zari's Day Care</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_330">
+                <coordinates>-122.031818,37.943756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_333">
+            <name>Downer Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_331">
+                <coordinates>-122.352936,37.952078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_334">
+            <name>Highland Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_332">
+                <coordinates>-122.328461,37.970946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_335">
+            <name>La Casita Bilingual Montessori</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_333">
+                <coordinates>-122.292192,38.006586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_336">
+            <name>Richmond High School Teen Parent Program</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_334">
+                <coordinates>-122.3474258,37.951913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_337">
+            <name>Montalvin Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_335">
+                <coordinates>-122.3361856,37.9951053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_338">
+            <name>Step by Step</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_336">
+                <coordinates>-122.0424004,37.9614546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_339">
+            <name>Monument First 5 Center</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_337">
+                <coordinates>-122.037822,37.972535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_340">
+            <name>La Maison des Petits</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_338">
+                <coordinates>-121.959616,37.943393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_341">
+            <name>King Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_339">
+                <coordinates>-122.3316677,37.9291864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_342">
+            <name>Smiling Star Daycare</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_340">
+                <coordinates>-122.322073,38.00408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_343">
+            <name>Murphy Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_341">
+                <coordinates>-122.290444,37.97449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_344">
+            <name>Dover Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_342">
+                <coordinates>-122.349344,37.9584083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_345">
+            <name>Benu's FCC</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_343">
+                <coordinates>-121.992059,37.954891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_346">
+            <name>Bayview Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_344">
+                <coordinates>-122.346887,37.974797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_347">
+            <name>Kings Kids Child Care</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_345">
+                <coordinates>-122.261356,38.032777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_348">
+            <name>Auntie Dobbles Kids</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_346">
+                <coordinates>-122.322796,37.921739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_349">
+            <name>Ford Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_347">
+                <coordinates>-122.3420644,37.9509509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_350">
+            <name>Mary's Family Child Care &amp; Preschool</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_348">
+                <coordinates>-122.038581,37.937731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_351">
+            <name>Little Munchkins Academy</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_349">
+                <coordinates>-122.2629749,37.9980698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_352">
+            <name>MDAE Family Literacy Preschool - Meadow Homes</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_350">
+                <coordinates>-122.0392546,37.9659506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_353">
+            <name>Roxie's Day Care</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_351">
+                <coordinates>-122.308798,37.910239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_354">
+            <name>Kisa Sims-Carr FCC</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_352">
+                <coordinates>-122.327869,37.96713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_355">
+            <name>MDAE Family Literacy Preschool - Cambridge</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_353">
+                <coordinates>-122.045715,37.954114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_356">
+            <name>Ameneh's FCC</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_354">
+                <coordinates>-122.02107,37.87384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_357">
+            <name>Casa de Ninos</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_355">
+                <coordinates>-122.31431,37.925348,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_358">
+            <name>Donna's Tot Along Daycare</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_356">
+                <coordinates>-122.264031,38.033102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_359">
+            <name>Hope Preschool</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_357">
+                <coordinates>-122.294143,37.967918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_360">
+            <name>Concord Child Care Center</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_358">
+                <coordinates>-122.0384912,37.9658794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_361">
+            <name>Little Sweet Pea</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_359">
+                <coordinates>-122.3279912,37.9539972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_362">
+            <name>Cambridge Community Child Care Center</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_360">
+                <coordinates>-122.044579,37.955495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_363">
+            <name>Contra Costa College Early Learning Center</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_361">
+                <coordinates>-122.340449,37.968654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_364">
+            <name>Brenda's Kidz Kare</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_362">
+                <coordinates>-122.353571,37.934601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_365">
+            <name>ABJ Learn &quot;N&quot; Play Fun House</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_363">
+                <coordinates>-122.020051,37.942292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_366">
+            <name>Cultivating Kids</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_364">
+                <coordinates>-122.274142,38.008177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_367">
+            <name>Teresa's Teddy Bear child Care and Preschool</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_365">
+                <coordinates>-122.346441,37.946123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_368">
+            <name>Felts Family Childcare</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_366">
+                <coordinates>-122.33225,37.97583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_369">
+            <name>Peres Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_367">
+                <coordinates>-122.3652012,37.9434965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_370">
+            <name>Wilson Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_368">
+                <coordinates>-122.3286625,37.939661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_371">
+            <name>Washington Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_369">
+                <coordinates>-122.3811866,37.9246602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_372">
+            <name>Lincoln Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_370">
+                <coordinates>-122.3640155,37.9318549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_373">
+            <name>Riverside Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_371">
+                <coordinates>-122.3265762,37.9523626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_374">
+            <name>Coronado Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_372">
+                <coordinates>-122.3501348,37.9267324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_375">
+            <name>Nystrom Elementary</name>
+            <description>For questions about this site please contact Lucy Parada. 
+ lucy@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_373">
+                <coordinates>-122.3592798,37.9281338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_376">
+            <name>Horace Mann Elementary</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_374">
+                <coordinates>-122.2023497,37.7735177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_377">
+            <name>Burke Academy (Cal-Safe)</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_375">
+                <coordinates>-122.1118261,37.665999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_378">
+            <name>Fruitvale Academy (Cal-Safe)</name>
+            <description>For questions about this site please contact Dulce Torres. 
+ dulce@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_376">
+                <coordinates>-122.2316107,37.7812336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_379">
+            <name>Hilltop Developmental Center</name>
+            <description>For questions about this site please contact Kaitlin Pearce. 
+ kaitlin@tandembayarea.org</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_377">
+                <coordinates>-122.4091574,37.7504536,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
