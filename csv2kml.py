@@ -9,17 +9,16 @@
 #
 # ==================================================================================================
 
-import csv
-import os
-from ssl import SSLError
-from sys import argv
 import argparse
-
+import csv
+import json
+import os
 import simplekml
 from geopy.geocoders import GoogleV3
 from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 from progressbar import ProgressBar
-
+from ssl import SSLError
+from sys import argv
 
 class Site(object):
     """
@@ -62,6 +61,10 @@ args = parser.parse_args()
 with open("googleV3API", "r") as googleAPI:
     myAPI = googleAPI.read()
     googleAPI.close()
+
+with open("AddressCache.json", "r") as infile:
+    cache_data = json.load(infile)
+    infile.close()
 
 
 def siteType():
