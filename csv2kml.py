@@ -25,11 +25,11 @@ class Site(object):
     Object to store information about Educational Sites.
     """
 
-    def __init__(self, name, address, staffLead, status, email):
+    def __init__(self, name, address, status, staffLead, email):
         self.name = name
         self.address = address
-        self.staffLead = staffLead
         self.status = status
+        self.staffLead = staffLead
         self.email = email
 
     def coordinates(self, latitude, longitude):
@@ -56,16 +56,17 @@ os.system('clear')
 parser = argparse.ArgumentParser()
 parser.add_argument("targetFile", help = "the CSV file to be loaded")
 parser.add_argument("-i", "--internal", action = "store_true", help = "KML output is designed for internal Tandem usage")
+parser.add_argument("-v", "--verbose", action = "store_true", help = "Prints verbose during address conversion")
 args = parser.parse_args()
 
 with open("googleV3API", "r") as googleAPI:
     myAPI = googleAPI.read()
     googleAPI.close()
-
+"""
 with open("AddressCache.json", "r") as infile:
     cache_data = json.load(infile)
     infile.close()
-
+"""
 
 def siteType():
     """Allows user to specify if the data being imported/map being exported contains Tandem Educational Partner or Tandem Organizational Partner data.
@@ -106,8 +107,8 @@ def objectify(inData):
 
     if tandemEdSite:
         siteList = []
-        for name, address, staffLead, status, email in inData:
-            siteList.append(Site(name, address, staffLead, status, email))
+        for name, address, status, staffLead, email in inData:
+            siteList.append(Site(name, address, status, staffLead, email))
 
         return siteList
 
